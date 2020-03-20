@@ -25,3 +25,11 @@ body {
     width:300px;
     float: left;
 }
+
+#h1 {
+    color: red;
+}
+
+.border {
+    border: 2px solid black;
+}
