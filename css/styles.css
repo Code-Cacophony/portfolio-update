@@ -4,6 +4,7 @@ img {
 
 .column {
     background-color: cyan;
+    padding-bottom: 1px;
 }
 
 .column2 {
