@@ -1,0 +1,21 @@
+img {
+    width:500px;
+}
+
+.column {
+    background-color: cyan;
+}
+
+.column2 {
+    
+    float: inherit;
+    background-color: azure;
+}
+
+.list {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    background-color: beige;
+}
