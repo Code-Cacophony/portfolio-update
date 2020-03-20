@@ -18,7 +18,7 @@ img {
 }
 
 body {
-    background-color: beige;
+    background-color: whitesmoke;
 }
 
 #selfie {
@@ -32,4 +32,5 @@ body {
 
 .border {
     border: 2px solid black;
+    padding-bottom: 10px;
 }
