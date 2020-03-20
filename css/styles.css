@@ -19,3 +19,8 @@ img {
 body {
     background-color: beige;
 }
+
+#selfie {
+    width:300px;
+    float: left;
+}
