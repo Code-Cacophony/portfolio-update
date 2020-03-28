@@ -2,8 +2,13 @@ img {
     width:500px;
 }
 
-.column {
+#border2 {
     background-color: cyan;
+    border: 2px solid cyan;
+}
+
+.column {
+    background-color: purple;
     padding-bottom: 1px;
 }
 
@@ -18,7 +23,7 @@ img {
 }
 
 body {
-    background-color: whitesmoke;
+    background-color: pink;
 }
 
 #selfie {
