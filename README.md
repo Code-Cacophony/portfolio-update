@@ -12,6 +12,8 @@ This program was made using HTML, CSS and Bootstrap.
 
 ## INSTALLATION 
 
+*Head to https://github.com/Code-Cacophony/portfolio-update
+*Click on "Clone or download".
 *Download entire ZIP file from Github.
 *Open file named _index.html_ on browser of choice.
 
@@ -21,7 +23,7 @@ There are no known bugs in this program.
 
 ## CONTACT
 
-If you have any questions that aren't answered here, suggestions or would like to report a bug, contact me at [mailto](erik@administrata.com).
+If you have any questions that aren't answered here, suggestions or would like to report a bug, contact me at [Erik Grove](mailto:erik@administrata.com.com?subject=[GitHub]).
 
 # LICENSE
 
